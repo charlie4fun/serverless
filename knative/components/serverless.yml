@@ -1,0 +1,5 @@
+setup:
+  component: ./setup
+  inputs:
+    kubeConfigPath: /Users/philipp/.kube/config
+    # version: '1.13'
